@@ -1,0 +1,9 @@
+{
+  "name": "Baseer",
+  "type": "SQA",
+  "url": "http://example.org",
+  "buildName": "1.1",
+  "buildUrl": "http://example.org/build#13",
+  "reportUrl": "http://example.org/build#13/AllureReport",
+  "reportName": "Baseer"
+}

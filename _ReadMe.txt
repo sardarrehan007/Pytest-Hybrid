@@ -143,3 +143,7 @@ TesttSuites-->  call Testcase classes for calling senarios
     }
 npx allure generate results/allure --clean -o results/allure-htmlReport
 npx allure open results/allure-htmlReport
+
+fOR ALLURE
+pytest -v -s -m LabSuite --alluredir=allure-results
+allure generate allure-results --clean & allure open
